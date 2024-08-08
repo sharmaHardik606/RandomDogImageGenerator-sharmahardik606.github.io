@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    max-height: 80vh;
+    max-width: 80vw;
+}
+
+button{
+    height: 10vh;
+    width: 50vw;
+    color: white;
+    background-color:coral;
+    cursor: pointer;
+}
